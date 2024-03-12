@@ -506,5 +506,49 @@
       "Takım Üyeleri",
       "Edin_Džeko"
     ]
+  },
+  {
+    "objectID": "takim/fred.html#işler",
+    "href": "takim/fred.html#işler",
+    "title": "Frederico Rodrigues",
+    "section": "İşler",
+    "text": "İşler\n\nFirma xxx, pozisyon xx, yıl xxx\nFirma yyy, pozisyon yyy, yıl yyy",
+    "crumbs": [
+      "Takım Üyeleri",
+      "Frederico Rodrigues"
+    ]
+  },
+  {
+    "objectID": "takim/fred.html#stajlar",
+    "href": "takim/fred.html#stajlar",
+    "title": "Frederico Rodrigues",
+    "section": "Stajlar",
+    "text": "Stajlar\n\nFirma aaa, pozisyon xx, yıl xxx\nFirma bbb, pozisyon yyy, yıl yyy",
+    "crumbs": [
+      "Takım Üyeleri",
+      "Frederico Rodrigues"
+    ]
+  },
+  {
+    "objectID": "takim/dusantadic.html#işler",
+    "href": "takim/dusantadic.html#işler",
+    "title": "Dusan Tadic",
+    "section": "İşler",
+    "text": "İşler\n\nFirma xxx, pozisyon xx, yıl xxx\nFirma yyy, pozisyon yyy, yıl yyy",
+    "crumbs": [
+      "Takım Üyeleri",
+      "Dusan Tadic"
+    ]
+  },
+  {
+    "objectID": "takim/dusantadic.html#stajlar",
+    "href": "takim/dusantadic.html#stajlar",
+    "title": "Dusan Tadic",
+    "section": "Stajlar",
+    "text": "Stajlar\n\nFirma aaa, pozisyon xx, yıl xxx\nFirma bbb, pozisyon yyy, yıl yyy",
+    "crumbs": [
+      "Takım Üyeleri",
+      "Dusan Tadic"
+    ]
   }
 ]
