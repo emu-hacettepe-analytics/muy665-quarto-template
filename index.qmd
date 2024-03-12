@@ -1,24 +1,37 @@
 ---
-title: "Team XXX"
+title: "Takım: XXX"
 sidebar: false 
 ---
 
-This is our project webpage.
+MUY660-İş Analitiği dersi takım sayfamıza hoş geldiniz.
 
-Please stay tuned to follow our project activities.
+Bu analitik çalışmalarımızı paylaşıyoruz.
+
+Lütfen faaliyetlerimizi görmek için için bizi takipte kalın.
 
 
 
-# Team Members
+## Takım Üyeleri
 
-1.  [Edin_Džeko](https://tr.wikipedia.org/wiki/Edin_D%C5%BEeko)
+1.  [Edin_Džeko](/takim/edindzeko.qmd)
 
-2.  [Dušan Tadić](https://tr.wikipedia.org/wiki/Du%C5%A1an_Tadi%C4%87)
+2.  [Dušan Tadić](/takim/dusantadic.qmd)
 
-3.  [Frederico Rodrigues de Paula Santos](https://tr.wikipedia.org/wiki/Fred_(1993_do%C4%9Fumlu_futbolcu))
+3.  [Frederico Rodrigues de Paula Santos](/takim/fred.qmd)
 
-4.  [Sebastian Szymański](https://tr.wikipedia.org/wiki/Sebastian_Szyma%C5%84ski)
+4.  [Sebastian Szymański](/takim/szymanski.qmd)
 
-# Project Overview and Scope
 
-# Key Takeaways
+## Proje Adı
+MUY660-İş Analitiği iyileştirme çalışmaları (örnek)
+
+## Proje Konusu
+Örnek:
+Bu projede MUY660-İş Analitiği ders içeriğinin analitik yaklaşımlarla iyileştirilmesini hedefledik. Bu doğrultuda tüm üniversitelerdeki benzer derslerin verisini toplayarak bir veri seti oluşturduk Analiz için ........ yöntemleri kullanarak, ....... çalışmaları yaptık Sonuç olarak, MUY660-İş Analitiği dersinin dünyadaki tüm derslerden daha iyi olduğunu ve bu dersi aldığımız için çok mutlu olduğumuzu tespit ettik.
+
+
+## Veri Seti Hakkında Özet Bilgi
+
+
+## Sonuçlar
+Burada key takeways verilmelidir. En az 3 en fazla 5 madde ile çarpıcı sonuçlar sunulmalıdır.

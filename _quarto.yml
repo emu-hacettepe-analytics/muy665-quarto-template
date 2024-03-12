@@ -3,18 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "xxx' Project Lab"
+  title: "XX Takımı Analitik Labı"
   navbar:
     search: true
     left:
-      - text: Home
+      - text: Ana Sayfa
         href: index.qmd
-      - text: Team Members
-        href: team.qmd
-      - text: Assignments
-        href: assignments.qmd
-      - text: Project
-        href: project.qmd
+      - text: Takım Üyeleri
+        href: takim.qmd
+      - text: Porfolyo
+        href: portfolyo.qmd
+      - text: Proje
+        href: proje.qmd
 
 
             
@@ -23,23 +23,23 @@ website:
         href: https://github.com
 
   sidebar:
-    - title: "Assignments"
+    - title: "Çalışmalar"
       style: "docked"
       search: true
       contents:
-        - assignments.qmd
-        - assignments/assignment-1.qmd
-        - assignments/assignment-2.qmd  
+        - portfolyo.qmd
+        - portfolyo/calisma1.qmd
+        - portfolyo/calisma2.qmd  
         
-    - title: "Team"
+    - title: "Takım"
       style: "docked"
       search: true
       contents:
-        - team.qmd
-        - team/dusantadic.qmd
-        - team/edindzeko.qmd
-        - team/fred.qmd  
-        - team/szymanski.qmd  
+        - takim.qmd
+        - takim/dusantadic.qmd
+        - takim/edindzeko.qmd
+        - takim/fred.qmd  
+        - takim/szymanski.qmd  
         
         
   page-navigation: true
