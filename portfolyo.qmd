@@ -2,4 +2,4 @@
 title: "Portfolyo"
 ---
 
-Bu sayfada, MUY665 İş Analitiği dersi 2024-2025 bahar dönemi boyunca yaptığımız analitik çalışmalarını sunmaktayız. Çalışmalarımıza sol menüden ulaşabilirsiniz.
+Bu sayfada, MUY665 İş Analitiği dersi 2025-2026 bahar dönemi boyunca yaptığım analitik çalışmalarımı sunmaktayım. Çalışmalarıma sol menüden ulaşabilirsiniz.

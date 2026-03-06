@@ -3,24 +3,30 @@ project:
   output-dir: docs
 
 website:
-  title: "XX Takımı Analitik Labı"
+  title: "[xxxx]'in Analitik Labı"
   navbar:
     search: true
     left:
-      - text: Ana Sayfa
+      - text: Anasayfa
         href: index.qmd
-      - text: Takım Üyeleri
-        href: takim.qmd
-      - text: Porfolyo
-        href: portfolyo.qmd
-      - text: Proje
-        href: proje.qmd
-
-
+      - text: Hakkımda
+        href: about.qmd
+      - text: Gönderilerim
+        href: posts.qmd
+      - text: "MUY665 Ders Çıktıları"
+        menu:
+          - text: Ödevler
+            href: portfolyo.qmd
+          - text: Proje
+            href: project.qmd
             
     tools:
       - icon: github
-        href: https://github.com
+        href: https://twitter.com
+      - icon: twitter
+        href: https://twitter.com
+      - icon: linkedin
+        href: https://linkedin.com
 
   sidebar:
     - title: "Çalışmalar"
@@ -31,21 +37,11 @@ website:
         - portfolyo/calisma1.qmd
         - portfolyo/calisma2.qmd  
         
-    - title: "Takım"
-      style: "docked"
-      search: true
-      contents:
-        - takim.qmd
-        - takim/dusantadic.qmd
-        - takim/edindzeko.qmd
-        - takim/fred.qmd  
-        - takim/szymanski.qmd  
-        
-        
+
   page-navigation: true
   back-to-top-navigation: true
   page-footer:
-    center: "EMU Hacettepe MUY665 - 2023-2024 Bahar" 
+    center: "Hacettepe IE - MUY665 - Bahar 2026" 
     border: true
 format:
   html:

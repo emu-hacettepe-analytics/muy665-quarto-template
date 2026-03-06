@@ -3,9 +3,7 @@ title: "Proje X (proje adını yazınız)"
 number-sections: true
 ---
 
-**Proje sayfamıza hoş geldiniz.**
-
-*Projemizle ilgili güncellemelerden haberdar olmak için bu alanı takip edin.*
+**Projemizle ilgili güncellemelerden haberdar olmak için bu xxxxx bağlantısındaki proje sayfamızı takip edin.**
 
 (Aşağıdaki başlıklar örnek olarak verilmiştir; lütfen gerektiği şekilde düzenlemekten çekinmeyin.)
 

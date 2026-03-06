@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Takım: XXX",
+    "title": "Analitik sayfama hoş geldiniz",
     "section": "",
-    "text": "MUY660-İş Analitiği dersi takım sayfamıza hoş geldiniz.\nBu analitik çalışmalarımızı paylaşıyoruz.\nLütfen faaliyetlerimizi görmek için için bizi takipte kalın."
+    "text": "MUY660-İş Analitiği dersi sayfama hoş geldiniz.\nBu analitik çalışmalarımızı paylaşıyorum.\n\n\n\n Back to top"
   },
   {
     "objectID": "teammembers/volkansonmez.html",
@@ -229,9 +229,8 @@
     "href": "portfolyo.html",
     "title": "Portfolyo",
     "section": "",
-    "text": "Bu sayfada, MUY665 İş Analitiği dersi 2024-2025 bahar dönemi boyunca yaptığımız analitik çalışmalarını sunmaktayız. Çalışmalarımıza sol menüden ulaşabilirsiniz.\n\n\n\n Back to top",
+    "text": "Bu sayfada, MUY665 İş Analitiği dersi 2025-2026 bahar dönemi boyunca yaptığım analitik çalışmalarımı sunmaktayım. Çalışmalarıma sol menüden ulaşabilirsiniz.\n\n\n\n Back to top",
     "crumbs": [
-      "Porfolyo",
       "Portfolyo"
     ]
   },
@@ -315,7 +314,6 @@
     "section": "",
     "text": "(Aşağıdakiler örnek olarak verilmiştir.)\nBu çalışmada 3 görevimiz var. Bu görevler….. Bunlara sırayla aşağıda cevap arıyoruz.",
     "crumbs": [
-      "Porfolyo",
       "Çalışma 2"
     ]
   },
@@ -326,7 +324,6 @@
     "section": "",
     "text": "(Aşağıdakiler örnek olarak verilmiştir.)\nBu çalışmada 3 görevimiz var. Bu görevler….. Bunlara sırayla aşağıda cevap arıyoruz.",
     "crumbs": [
-      "Porfolyo",
       "Çalışma 1"
     ]
   },
@@ -393,7 +390,6 @@
     "section": "(a)",
     "text": "(a)\n\n1 + 1\n\n[1] 2",
     "crumbs": [
-      "Porfolyo",
       "Çalışma 1"
     ]
   },
@@ -404,7 +400,6 @@
     "section": "(a)",
     "text": "(a)\n\n1 + 1\n\n[1] 2",
     "crumbs": [
-      "Porfolyo",
       "Çalışma 2"
     ]
   },
@@ -415,7 +410,6 @@
     "section": "(b)",
     "text": "(b)",
     "crumbs": [
-      "Porfolyo",
       "Çalışma 2"
     ]
   },
@@ -426,7 +420,6 @@
     "section": "(b)",
     "text": "(b)",
     "crumbs": [
-      "Porfolyo",
       "Çalışma 1"
     ]
   },
@@ -550,5 +543,26 @@
       "Takım Üyeleri",
       "Dusan Tadic"
     ]
+  },
+  {
+    "objectID": "about.html#employements",
+    "href": "about.html#employements",
+    "title": "Hakkımda",
+    "section": "Employements",
+    "text": "Employements\n\nFirm xxx, position xx, year xxx\nFirm yyy, position yyy, year yyy"
+  },
+  {
+    "objectID": "about.html#internships",
+    "href": "about.html#internships",
+    "title": "Hakkımda",
+    "section": "Internships",
+    "text": "Internships\n\nFirm aaa, position xx, year xxx\nFirm bbb, position yyy, year yyy"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "Bu sayfa yapım aşamasındadır.\n\n\n\n Back to top"
   }
 ]
